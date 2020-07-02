@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-native-vector-icons/static/css/main.cc78ae33.chunk.css",
+    "main.js": "/react-native-vector-icons/static/js/main.6470ca91.chunk.js",
+    "main.js.map": "/react-native-vector-icons/static/js/main.6470ca91.chunk.js.map",
+    "runtime-main.js": "/react-native-vector-icons/static/js/runtime-main.63b4219d.js",
+    "runtime-main.js.map": "/react-native-vector-icons/static/js/runtime-main.63b4219d.js.map",
+    "static/js/2.55ce9c30.chunk.js": "/react-native-vector-icons/static/js/2.55ce9c30.chunk.js",
+    "static/js/2.55ce9c30.chunk.js.map": "/react-native-vector-icons/static/js/2.55ce9c30.chunk.js.map",
+    "index.html": "/react-native-vector-icons/index.html",
+    "precache-manifest.212693ffff860ebe928c2b6f50f4eb48.js": "/react-native-vector-icons/precache-manifest.212693ffff860ebe928c2b6f50f4eb48.js",
+    "service-worker.js": "/react-native-vector-icons/service-worker.js",
+    "static/css/main.cc78ae33.chunk.css.map": "/react-native-vector-icons/static/css/main.cc78ae33.chunk.css.map",
+    "static/media/App.css": "/react-native-vector-icons/static/media/Zocial.5cdf883b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b4219d.js",
+    "static/js/2.55ce9c30.chunk.js",
+    "static/css/main.cc78ae33.chunk.css",
+    "static/js/main.6470ca91.chunk.js"
+  ]
+}
